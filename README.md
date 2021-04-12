@@ -5,7 +5,7 @@
 
 ### 👨🏻‍ &nbsp;About Me
 
-💡 &nbsp;My name is Pritam Sonawane, I am a Web Developer with a vast array of knowledge in many technology stacks which includes backend, front-end frameworks, databases and the best code practices.\
+💡 &nbsp;My name is Pritam Sonawane, I am a Software Developer with a vast array of knowledge in many technology stacks which includes backend, front-end frameworks, databases and the best code practices.\
 🎓 &nbsp;I have Bachelor of Engineering and Post Graduation Deploma in Advanced Computing.\
 🌱 &nbsp;My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continually making strides to learn all that I can about development.\
 
