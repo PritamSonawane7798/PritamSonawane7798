@@ -1,4 +1,4 @@
-![Pritam Kishor Sonawane Banner](assets/pritam_sonawane.jpg)
+![Pritam Kishor Sonawane Banner](assets/pritam_sonawane.jpg=100x20)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pritam Sonawane</h2>
 
